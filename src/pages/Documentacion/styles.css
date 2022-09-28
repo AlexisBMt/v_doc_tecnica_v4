@@ -1,0 +1,38 @@
+.paginas-titulo {
+  background: #17376d;
+  color: white;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 700;
+  padding: 15px 0px;
+  margin-bottom: 0;
+  margin-top: 5rem;
+}
+
+.navbtn{
+  color: black;
+  border-color: orange;
+  background-color: #f8f9fa;
+  border-bottom: 0;
+}
+
+.navbtn:hover{
+  background-color: #f8f9fa;
+  border-color: orange;
+  color: rgb(2, 17, 233);
+}
+
+.navbtnAct{
+  color: white;
+  background-color: orange;
+}
+
+.navbtnAct:hover{
+  color: white;
+  background-color: orange;
+  border-color: orange;
+}
+
+.bg-blue-table{
+  background: rgb(191 219 254) ;
+}
